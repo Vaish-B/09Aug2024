@@ -1,1 +1,5 @@
-how are youuuuu  
+<<<<<<< HEAD
+how are youu vaishu  
+=======
+how are youuuuu 
+>>>>>>> feature
